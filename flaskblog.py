@@ -10,7 +10,7 @@ def hello():
 
 @app.route('/about')
 def ab():
-    return '<h1>About this is my page Page</h1>'
+    return '<h1>About Page</h1>'
 
 
 if(__name__ == '__main__'):
