@@ -4,6 +4,6 @@ following Youtube playlist [Flask Tutorial](https://www.youtube.com/playlist?lis
 
 Total 15 Videos
 ## Day 1
-[] Video 1
+[ ] Video 1
 
 
